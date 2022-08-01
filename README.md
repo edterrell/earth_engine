@@ -1,6 +1,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edterrell/earth_engine/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/edterrell/earth_engine/HEAD
  
 # earth_engine_mapping
 ## Set up a conda environment. 
