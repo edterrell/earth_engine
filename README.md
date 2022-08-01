@@ -1,4 +1,4 @@
-https://github.com/edterrell/earth_engine
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edterrell/earth_engine/HEAD)
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/edterrell/earth_engine/HEAD
  
